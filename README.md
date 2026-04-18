@@ -99,7 +99,7 @@ class KedarMahajan:
 
 ## 🤝 Let's Connect & Collaborate
 
-As a final year student, I'm actively looking for:
+ I'm actively looking for:
 - 🚀 **Internship Opportunities** in ML/AI or Full-Stack Development
 - 🔬 **AI/ML Research Projects** & Hackathons
 - 👁️ **Computer Vision Applications**
