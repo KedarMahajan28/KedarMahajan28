@@ -84,7 +84,6 @@ class KedarMahajan:
 | **Domain** | **Skills** |
 |:---:|:---|
 | 🧠 **Deep Learning** | Neural Networks, CNNs, RNNs, Transformers, Transfer Learning |
-| 👁️ **Computer Vision** | Image Classification, Object Detection, Semantic Segmentation, Image Processing |
 | 🤖 **Generative AI** | LLMs, Prompt Engineering, Fine-tuning, RAG Systems, Text Generation |
 | 🎯 **Agentic AI** | Agent Architectures, Tool Use, Multi-step Reasoning, Autonomous Systems |
 | 📊 **Data Science** | EDA, Feature Engineering, Model Evaluation, Statistical Analysis |
